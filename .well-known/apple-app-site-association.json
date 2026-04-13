@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["443SKQCGH3.com.polyspherelabs.Pantry"],
+        "components": [
+          {
+            "/": "/household/join",
+            "?": { "code": "*" },
+            "comment": "Household invite links"
+          }
+        ]
+      }
+    ]
+  }
+}
